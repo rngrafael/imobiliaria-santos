@@ -140,7 +140,7 @@ li{
     color: #fff;
 }
 
-.sexta-secao p{
+.sexta-secao .paragrafo-1{
     background-color: #000000;
     color: #fff;
     width: 1024px;
@@ -156,3 +156,9 @@ li{
     border-radius: 5px;
     color: #8DC2C8;
 }
+
+.desenvolvedor{
+    color: #000000;
+    margin: 20px 0 -26px;
+}
+
